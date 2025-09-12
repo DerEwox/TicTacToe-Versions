@@ -74,4 +74,4 @@ Hier hat "O" zuletzt im TicTacToe-Feld _oben mitte_ im Feld _oben links_ gesetzt
 ---
 
 by  
-![Logo](https://files.catbox.moe/bv8l06.png)
+![Logo](https://files.catbox.moe/s0htru.png)
